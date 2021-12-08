@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.body{
+   max-width: 1600px;
+   margin: auto;
+}
+.brand-line{
+    margin-top: 10px;
+    text-align: center;
+}
+h5.someline{
+    margin-top: 60px;
+    text-align: center;
+    color: rgb(75, 133, 113);
+}
+p.someline{
+   
+    text-align: center;
+}
+.btn-1{
+    margin-top: 60px;
+}
